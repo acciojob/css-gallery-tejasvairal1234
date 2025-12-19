@@ -5,10 +5,10 @@
 	flex-wrap: wrap;
 	height: 100vh;
 	/* width: 100vw; */
-	gap: 10px;
+	/* gap: 10px; */
 	justify-content: space-between;
 	align-items: flex-end;
-	align-content: space-between
+	align-content: space-between;
 }
 
 img
